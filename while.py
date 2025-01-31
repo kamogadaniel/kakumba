@@ -1,0 +1,7 @@
+sum1 = input("enter numbers: ")
+sum2 = input("enter numbers: ")
+sum3 = input("enter numbers: ")
+sum4 = input("enter numbers: ")
+sum5 = input("enter numbers: ")
+total = int(sum1) + int(sum1) + int(sum3) + int(sum4) + int(sum5)
+print(f"your total is: {total}")
